@@ -74,4 +74,7 @@ Default web root:
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
 
 Learning to become a DevOps Engineer. We move
- Darey.io is a platform contributing its quota to IT development
+
+Darey.io is a platform contributing its quota to IT development
+
+Bravo!!!

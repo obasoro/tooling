@@ -77,4 +77,4 @@ Learning to become a DevOps Engineer. We move
 
 Darey.io is a platform contributing its quota to IT development
 
-Bravo!!!
+Bravo!!! Greatness

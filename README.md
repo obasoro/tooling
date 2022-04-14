@@ -80,3 +80,5 @@ Darey.io is a platform contributing its quota to IT development
 Bravo!!! Greatness
 
 Trying another experience with Jenkins. Running project 7-10.
+
+We move

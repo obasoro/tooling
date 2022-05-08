@@ -81,4 +81,4 @@ Bravo!!! Greatness
 
 Trying another experience with Jenkins. Running project 7-10.
 
-We move
+We move!!! Another way to learn better is to encounter brick wall
